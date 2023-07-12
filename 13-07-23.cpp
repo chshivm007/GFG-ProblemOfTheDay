@@ -1,5 +1,5 @@
 // Question Link-
-// https://practice.geeksforgeeks.org/problems/unique-frequencies-of-not/1#include <bits/stdc++.h>
+// https://practice.geeksforgeeks.org/problems/unique-frequencies-of-not/1
 
 #include <bits/stdc++.h>
 using namespace std;
